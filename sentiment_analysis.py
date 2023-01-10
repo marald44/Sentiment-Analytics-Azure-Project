@@ -53,9 +53,3 @@ for documents_batch in grouper(documents, 10):
 
 
 
-
-
-        
-
-
-
