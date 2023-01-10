@@ -3,6 +3,6 @@
 
 Contributors:
 Remziye Maral Demirseçen - 1903451
-Açelya Şen - 1902444
+Açelyanur Şen - 1902444
 Utku Arslan - 1805289
 Cansu Kazaz - 1905301
